@@ -1,3 +1,13 @@
-body {
-    background: red;
+
+body{
+    
+    background: linear-gradient(215deg,rgb(126,25,30),rgba(126,25,30,.0));
+}
+
+#title{
+    color: #ba8509;
+}
+
+.subtitle {
+    color: #ba8509;
 }
